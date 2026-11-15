@@ -1,0 +1,5 @@
+MI PRIMER PROYECTO CON GIT
+
+Este es mi primer archivo.
+Estoy aprendiendo a utilizar Git en Ubuntu.
+Mi objetivo es controlar las versiones de mis proyectos.
